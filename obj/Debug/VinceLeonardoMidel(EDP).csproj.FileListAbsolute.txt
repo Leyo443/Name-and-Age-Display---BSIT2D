@@ -1,0 +1,7 @@
+C:\Users\Kim Jean\source\repos\VinceLeonardoMidel(EDP)\bin\Debug\VinceLeonardoMidel(EDP).exe.config
+C:\Users\Kim Jean\source\repos\VinceLeonardoMidel(EDP)\bin\Debug\VinceLeonardoMidel(EDP).exe
+C:\Users\Kim Jean\source\repos\VinceLeonardoMidel(EDP)\bin\Debug\VinceLeonardoMidel(EDP).pdb
+C:\Users\Kim Jean\source\repos\VinceLeonardoMidel(EDP)\obj\Debug\VinceLeonardoMidel(EDP).csproj.AssemblyReference.cache
+C:\Users\Kim Jean\source\repos\VinceLeonardoMidel(EDP)\obj\Debug\VinceLeonardoMidel(EDP).csproj.CoreCompileInputs.cache
+C:\Users\Kim Jean\source\repos\VinceLeonardoMidel(EDP)\obj\Debug\VinceLeonardoMidel(EDP).exe
+C:\Users\Kim Jean\source\repos\VinceLeonardoMidel(EDP)\obj\Debug\VinceLeonardoMidel(EDP).pdb
