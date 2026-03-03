@@ -17,5 +17,3 @@ namespace Name_and_Age_Display
         }
     }
 }
-
-
